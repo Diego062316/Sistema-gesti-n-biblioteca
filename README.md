@@ -14,4 +14,7 @@
 <summary>Asociaciones, agregaciones, composiciones, realizaciones, dependencias, herencias
 <summary>Incluir -atributos y/o metodos estáticos
 <summary>Implementar en java
-> [![Custom badge]
+> <a href="https://github.com/adiwajshing/"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"> ᴬᴾᴵ ᴰᵉᵛᵉˡᵒᵖᵉʳ 
+
+> [![Custom badge](https://img.shields.io/badge/MhankBarBar-Termux|Wabot-000000?style=for-the-badge)](https://github.com/MhankBarBar/termux-wabot)
+ ᴹᵃᶦⁿ ᵇᵃˢᵉ ᵒᶠ ᵗʰᶦˢ ᵇᵒᵗ
