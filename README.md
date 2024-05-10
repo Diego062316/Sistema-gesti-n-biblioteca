@@ -8,7 +8,7 @@
 - Dibuja el diagrama de clases UML basado en la descripción dada.
 - Asegúrate de incluir todas las relaciones y características.
 - Considera los modificadores de acceso apropiados para cada atributo y método.
- <details><summary>Utilizar:</summary>
+ <details>Utilizar:</summary>
 <summary>Clases, clases abstractas, interfaces
 <summary>Atributos,  métodos para las clases
 <summary>Asociaciones, agregaciones, composiciones, realizaciones, dependencias, herencias
