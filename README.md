@@ -5,7 +5,7 @@
 
 <div align="left">
  <details><summary>Instrucciones:</summary>
-<summary> Dibuja el diagrama de clases UML basado en la descripción dada.
+<summary> Dibuje el diagrama de clases UML basado en la descripción dada.
 <summary> Asegúrate de incluir todas las relaciones y características.
 <summary>Considera los modificadores de acceso apropiados para cada atributo y método.
  </details>
@@ -15,4 +15,6 @@
 <summary>Asociaciones, agregaciones, composiciones, realizaciones, dependencias, herencias
 <summary>Incluir -atributos y/o metodos estáticos
 <summary>Implementar en java
+ </details>
+<details><summary>Un puntito por el exfuerzo Inge</summary>
 
